@@ -7,4 +7,30 @@ h1 {
 }
 body {
     font-family: 'Open Sans', sans-serif;
+    background-color: #EEEEEE;
+}
+nav {
+    text-align: center;
+    color:#393E46;
+}
+.sa {
+    text-align: center;
+    font-size: 2em;
+    color:#222831;
+    list-style-position: inside
+}
+.se {
+    text-align: center;
+    font-size: 1.5em;
+    color:#00ADB5;
+    list-style-position: inside
+}
+aside {
+    text-align: center;
+}
+.ae {
+    list-style-position: inside;
+    text-align: center;
+    color:#393E46;
+    font-size: 16px;
 }
